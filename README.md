@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit </h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
-🔭 I’m planning for a Project **Bot Flow to automate workfows**.
- 
- 🌱 I’m currently learning **Rust**
- 
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
+- 🔨 I'm currently working on [Automate Bot workflows](https://github.com/kumar8317/bot-flow-backend/)
  
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
  
